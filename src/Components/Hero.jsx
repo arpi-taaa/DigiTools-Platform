@@ -29,9 +29,8 @@ const Hero = () => {
                     </p>
 
                     <div className="flex flex-wrap justify-center md:justify-start gap-3 pt-2">
-                        <button className="flex gap-3 bg-linear-to-r from-[#4F39F6] to-[#9514FA] text-white px-7 py-3 rounded-full font-bold hover:opacity-90 transition-all shadow-md text-sm">
+                        <button className="bg-linear-to-r from-[#4F39F6] to-[#9514FA] text-white px-7 py-3 rounded-full font-bold hover:opacity-90 transition-all shadow-md text-sm">
                             Explore Products
-                            <img src="/right-arrow.png" className='w-5' alt="" />
                         </button>
                         <button className="flex items-center gap-2 bg-white border border-violet-200 text-violet-600 px-7 py-3 rounded-full font-bold hover:bg-violet-50 transition-all text-sm">
                             <img className='w-4' src="/play-button.png" alt="" />
