@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "imageName":"creative-writing.png",
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality blog posts, emails, and ad copies in seconds using advanced neural networks.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "warning",
+    "features": ["Unlimited AI Words", "Plagiarism Checker", "SEO Optimizer"]
+  },
+  {
+    "id": 2,
+    "imageName":"design-tool.png",
+    "name": "Design Templates Pack",
+    "description": "Access over 500+ premium UI components and presentation decks for your next big project.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "info",
+    "features": ["Figma & Sketch Files", "Commercial License", "Free Monthly Updates"]
+  },
+  {
+    "id": 3,
+    "imageName":"camera.png",
+    "name": "Premium Stock Assets",
+    "description": "High-resolution photos, 4K videos, and vector illustrations to make your brand stand out.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "success",
+    "features": ["10M+ Asset Library", "No Attribution Required", "Daily New Content"],
+    "icon": "📸"
+  },
+  {
+    "id": 4,
+    "imageName":"seo.png",
+    "name": "SEO Master Suite",
+    "description": "The ultimate toolkit for keyword research, backlink analysis, and tracking your site's ranking.",
+    "price": 89,
+    "period": "yearly",
+    "tag": "Expert Choice",
+    "tagType": "secondary",
+    "features": ["Competitor Analysis", "Weekly Reports", "API Access"],
+    "icon": "🚀"
+  },
+  {
+    "id": 5,
+    "imageName":"server.png",
+    "name": "Cloud Storage Plus",
+    "description": "Secure, encrypted cloud storage for your digital assets with lightning-fast sharing capabilities.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "Budget Friendly",
+    "tagType": "accent",
+    "features": ["2TB Storage", "End-to-End Encryption", "File Versioning"],
+    "icon": "☁️"
+  },
+  {
+    "id": 6,
+    "imageName":"content-creator.png",
+    "name": "Video Editor Online",
+    "description": "A browser-based powerful video editor with professional transitions and sound effects.",
+    "price": 150,
+    "period": "one-time",
+    "tag": "Lifetime Access",
+    "tagType": "primary",
+    "features": ["4K Exporting", "Green Screen Support", "Music Library"],
+    "icon": "🎬"
+  }
+]
