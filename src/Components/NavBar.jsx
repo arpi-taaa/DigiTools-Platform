@@ -22,7 +22,7 @@ const NavBar = ({ cartCount }) => {
 
                     <div className="flex items-center space-x-5">
                         <div className="relative cursor-pointer text-gray-600 hover:text-violet-600 p-1">
-                            <img className='w-6' src="/products/shopping-cart.png" alt="" />
+                            <img className='w-6' src="/shopping-cart.png" alt="" />
                             <div className="absolute -top-1.5 -right-1.5 bg-red-500 text-white text-[10px] font-bold rounded-full w-5 h-5 flex items-center justify-center shadow-md">
                                 {cartCount}
                             </div>
