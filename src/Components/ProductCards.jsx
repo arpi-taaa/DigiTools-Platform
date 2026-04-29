@@ -10,10 +10,7 @@ const ProductCards = ({ handleAddToCart }) => {
                     const { id, name, imageName, badge, badgeColor, description, price, type, features } = product;
 
                     return (
-                        <div
-                            key={id}
-                            className="bg-white border border-gray-100 rounded-2xl p-6 shadow-sm hover:shadow-md transition-all relative flex flex-col h-full">
-                            
+                        <div key={id} className="bg-white border border-gray-100 rounded-2xl p-6 shadow-sm hover:shadow-md hover:scale-105 duration-500 transition-all relative flex flex-col h-full">
                             <div className={`absolute top-4 right-4 px-2.5 py-0.5 rounded-full text-[9px] font-bold uppercase tracking-wider ${badgeColor}`}>
                                 {badge}
                             </div>
